@@ -110,3 +110,7 @@ LINEログイン後、TOPページで以下の選択肢が表示されます。
 - liff-sdk (LINE内でのアプリ実行)
 - line-bot-api(本リリース時のリマインド通知用) 
 - lucide-rails (アイコン表示)
+
+### 画面遷移図
+Figma：
+https://www.figma.com/design/5r4lMUUYAeNo1c9tir7UqY/%E3%82%82%E3%81%97%E3%82%82%E3%81%AE%E6%A1%88%E5%86%85%E6%89%80_%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=3-127&t=izUObEHl6RCbCNu7-1
